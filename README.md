@@ -1,5 +1,5 @@
 # João Gonçalves!
-Olá, estou estudando de Engenharia de Software, ainda não estou trabalhando na área. Gosto muito de tecnologia e estou aprendendo muito nos cursos da [DIO](https://www.dio.me/).
+Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na área. Gosto muito de tecnologia e estou aprendendo muito nos cursos da [DIO](https://www.dio.me/).
 <div>
   <a href="https://github.com/Joao-G-oncalves">
  
