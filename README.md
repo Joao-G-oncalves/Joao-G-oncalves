@@ -1,11 +1,10 @@
 # João Gonçalves!
 Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na área. Gosto muito de tecnologia e estou aprendendo muito nos cursos da [DIO](https://www.dio.me/).
-<div>
-  <a href="https://github.com/Joao-G-oncalves">
+<a href="https://github.com/Joao-G-oncalves">
  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-G-oncalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-G-oncalves&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-G-oncalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-G-oncalves&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ## Conecte-se comigo
 
@@ -17,8 +16,8 @@ Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na á
 
   ##
  
-<div> 
+
  
-  ![Snake animation](https://github.com/Joao-G-oncalves/Joao-G-oncalves/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Joao-G-oncalves/Joao-G-oncalves/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
