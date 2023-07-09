@@ -1,5 +1,12 @@
 # João Gonçalves!
-Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na área. Gosto muito de tecnologia e estou aprendendo muito nos cursos da [DIO](https://www.dio.me/).
+Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na área. 
+
+Comecei assistindo uns vídeos do Gustavo Guanabara no Youtube👨‍💻 [Curso em Vídeo](https://www.youtube.com/@CursoemVideo/)
+
+Hoje estou apaixonado pela área de tecnologia e estou aprendendo muito nos cursos da [DIO](https://www.dio.me/).
+
+
+
 <a href="https://github.com/Joao-G-oncalves">
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-G-oncalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
