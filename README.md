@@ -1,5 +1,5 @@
 # João Gonçalves!
-Olá, estou estudando Engenharia de Software, ainda não estou trabalhando na área. 
+Olá, estou estudando Engenharia de Software, atualmente no 5º período. 
 
 Comecei assistindo uns vídeos do Gustavo Guanabara no Youtube👨‍💻 [Curso em Vídeo](https://www.youtube.com/@CursoemVideo/)
 
