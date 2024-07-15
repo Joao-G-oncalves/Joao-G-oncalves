@@ -13,7 +13,7 @@ Hoje estou apaixonado pela área de tecnologia e estou aprendendo muito nos curs
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joao-G-oncalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-G-oncalves&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/Joao-G-oncalves/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Joao-G-oncalves/Joao-G-oncalves/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ![](https://komarev.com/ghpvc/?username=Joao-G-oncalves)
